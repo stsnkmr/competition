@@ -1,0 +1,2 @@
+# competition
+Kaggle, Signate コンペコード
